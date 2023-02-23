@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Tech-addict-002
-- 👀 I’m interested in ...ARTIFICIAL INTELLIGENCE,MACHINE LEARNING
-- 🌱 I’m currently learning ...everything I could
-- 💞️ I’m looking to collaborate on ...Let the Fate Decide : )
+- 👀 I’m interested in ...Ai, Big Data
 - 📫 How to reach me ...abhishekubhe0789@gmail.com
 
 <!---
